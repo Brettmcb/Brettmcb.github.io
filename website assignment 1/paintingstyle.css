@@ -1,0 +1,148 @@
+
+div{
+    outline:0px solid lime;
+}
+
+body{
+    background-color:#FFFFFF;
+    margin:0 0 0 0;
+}
+.header{
+    background-color:#FFFFFF;
+    height:60px;
+    color:#FFFFFF;
+    border-bottom:4px solid #cc1a21;
+    position:fixed;
+    width:100%;
+}
+.main {
+  padding: 16px;
+  margin-top: 0px;
+  height: 1775px;
+}
+.headercontainer{
+    max-width:950px;
+    height:60px;
+    color:#FFFFFF;
+    margin-left:auto;
+    margin-right:auto;
+}
+.header img{
+    height:50px;
+    width:60px;
+    margin-top:5px;
+    margin-left:10px;
+}
+.links{
+    margin-top:25px;
+    font-size:0.95rem;
+    float:right;
+    color:#000000;
+    font-family: 'Lato', sans-serif;
+}
+.links a{
+    color:#000000;
+    text-decoration:none;
+    padding-left:40px;
+    padding-right:40px;
+}
+.links a:hover{
+    color:#cc1a21;
+}
+
+.container1{
+    background-color:#FFFFFF;
+    height:1640px;
+    width:950px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:150px;
+}
+.title{
+    height:60px;
+    width:100%;
+    font-family: 'Lato', sans-serif;
+    color:#e1b3bb;
+    font-size:25px;
+    text-align: center;
+}
+.explanation{
+    font-family: 'Lato', sans-serif;
+    color:#000000;
+    text-align:center;
+    font-size:10px;
+    height:30px;
+    width: 100%;
+    border-bottom:4px solid #cc1a21;
+}
+.row1{
+    height: 419px;
+    width: 100%;
+    margin-top: 50px;
+}
+.row1 img{
+    height:415px;
+    border:2px solid #e1b3bb;
+}
+.row2{
+    margin-top: 10px;
+    height:340px;
+    width: 100%;
+}
+.row2 img{
+    width:946px;
+    border:2px solid #e1b3bb;
+}
+.row3{
+    height:322px;
+    margin-top: 10px;
+    width:100%;
+}
+.row3 img{
+    height:317.75px;
+    border:2px solid #e1b3bb;
+}
+.row4{
+    height:390px;
+    width: 100%;
+    margin-top: 10px;
+}
+.row4 img{
+    height:385.25px;
+    border:2px solid #e1b3bb;
+}
+.footer{
+    background-color:#FFFFFF;
+    margin:100px 0 0 0;
+    height:200px;
+    border-top:4px solid #cc1a21;
+}
+.footercontainer{
+    background-color:#FFFFFF;
+    width:950px;
+    height:200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.footer img{
+    height:100px;
+    margin-left:400px;
+    margin-right:425px;
+    margin-top: 25px;
+}
+.type{
+    height:50px;
+    width:445px;
+    font-family: 'Lato', sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+.type a{
+    color:#000000;
+    text-decoration:none;
+    padding-left:50px;
+    padding-right:50px;
+}
+.type a:hover{
+    color:#cc1a21;
+}
